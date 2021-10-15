@@ -1,2 +1,2 @@
-# Pong3D
-Problem Solving Challenge
+# Problem Solving Challenge
+
