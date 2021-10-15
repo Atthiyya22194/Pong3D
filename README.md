@@ -1,2 +1,2 @@
-# Pong3D
+# Branch 1
 Problem Solving Challenge
